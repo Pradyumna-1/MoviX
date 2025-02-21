@@ -2,6 +2,8 @@
 ![image alt](https://github.com/Pradyumna-1/MoviX/blob/7dd6a9d52eb5cd81211241a1e376645944a96f1f/Screenshot%20(948).png)
 
 ![image alt](https://github.com/Pradyumna-1/MoviX/blob/0ba216804673938ee389998a4ac932744e98998c/Screenshot%20(947).png)
+# Search 
+![image alt](https://github.com/Pradyumna-1/MoviX/blob/f538eef2e0b787a08a9c8073f5402ef5107895fb/Screenshot%20(949).png)
 
 # React + Vite
 
